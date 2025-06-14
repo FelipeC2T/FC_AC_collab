@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+#  Clasificación de Facies a partir de Datos de Pozo
 
-Este es un proyecto de ciencia de datos en colaboración con [nombre del compañero]. Aquí analizamos [breve descripción del objetivo del proyecto].
+Este es un proyecto de ciencia de datos en colaboración con Andrés Costa. Aquí analizamos [breve descripción del objetivo del proyecto].
 
 ## 🧱 Estructura del repositorio
 
@@ -14,8 +14,7 @@ Este es un proyecto de ciencia de datos en colaboración con [nombre del compañ
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repo.git
-
+   git clone https://github.com/usuario/FC_AC_collab
 
  # Clasificación de Facies a partir de Datos de Pozo
 
