@@ -1,0 +1,10 @@
+digest: f58adf13
+name: dataset
+profile: '{"features_shape": [568, 10, 6], "features_size": 34080, "features_nbytes":
+  272640, "targets_shape": [568], "targets_size": 568, "targets_nbytes": 4544}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10, 6]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "andre", "mlflow.source.name": "c:\\Users\\andre\\anaconda3\\envs\\sismica\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

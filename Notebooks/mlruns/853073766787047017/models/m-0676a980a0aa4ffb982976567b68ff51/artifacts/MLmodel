@@ -1,0 +1,28 @@
+artifact_path: file:///c:/Users/andre/Proyectos/facies_well/FC_AC_collab/Notebooks/mlruns/853073766787047017/models/m-0676a980a0aa4ffb982976567b68ff51/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.9.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.9.21
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-0676a980a0aa4ffb982976567b68ff51
+model_size_bytes: 339629
+model_uuid: m-0676a980a0aa4ffb982976567b68ff51
+prompts: null
+run_id: e235ee44344c4713b0443b2dfe35a9d5
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 20,
+    4]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-02 19:18:12.841647'

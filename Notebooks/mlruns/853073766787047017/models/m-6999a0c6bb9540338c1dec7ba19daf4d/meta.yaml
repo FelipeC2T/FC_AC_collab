@@ -1,0 +1,11 @@
+artifact_location: file:///c:/Users/andre/Proyectos/facies_well/FC_AC_collab/Notebooks/mlruns/853073766787047017/models/m-6999a0c6bb9540338c1dec7ba19daf4d/artifacts
+creation_timestamp: 1751482728504
+experiment_id: '853073766787047017'
+last_updated_timestamp: 1751482728504
+lifecycle_stage: active
+model_id: m-6999a0c6bb9540338c1dec7ba19daf4d
+model_type: null
+name: model
+source_run_id: 4f6de34a8f8d4e5aa1b965da2b1ca710
+status: 1
+status_message: null
