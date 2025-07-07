@@ -34,7 +34,7 @@ Este proyecto busca aplicar modelos de machine learning para clasificar facies g
 
 ## 🎯 Objetivo
 
-Entrenar y evaluar modelos de clasificación supervisada para predecir la facies geológica en función de las propiedades medidas.
+Entrenar y evaluar modelos de clasificación supervisada para predecir las facies geológica en función de las propiedades medidas.
 
 ## 🔧 Posibles modelos
 
